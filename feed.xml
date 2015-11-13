@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>urn:uuid:41aca343-a995-42b8-9213-dc4b84fe45c7</id>
+	<title>SuperF4</title>
+	<link href="http://superf4.googlecode.com/svn/wiki/feed.xml" rel="self" />
+	<link href="http://code.google.com/p/superf4/" />
+  <updated>2015-08-23T16:00:00Z</updated>
+	<author>
+		<name>Stefan Sundin</name>
+		<uri>http://stefansundin.com/</uri>
+	</author>
+
+  <entry>
+    <id>urn:uuid:6f842a8b-88c0-4132-a59e-87ce78fd1414</id>
+    <title>New website</title>
+    <link href="https://stefansundin.github.io/superf4/" />
+    <updated>2015-08-23T16:00:00Z</updated>
+    <author><name>Stefan Sundin</name></author>
+    <content type="html">
+&lt;p>SuperF4 has a new website. This will be the last post of this RSS feed. Be sure to subscribe to new one on the new website.&lt;/p>
+&lt;p>- &lt;a href="https://stefansundin.github.io/superf4/">Go to the new website&lt;/a>.&lt;/p>
+&lt;p>- &lt;a href="https://github.com/stefansundin/superf4/releases.atom">New release-only GitHub RSS feed&lt;/a>.&lt;/p>
+    </content>
+  </entry>
+</feed>
